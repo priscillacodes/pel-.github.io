@@ -52,7 +52,7 @@ body{
     justify-items: center;
     align-items: center;
     transform: scaleX(1.25);
-    border-radius: 50%;
+    border-radius: 60%;
 }
 
 #img-caption{
