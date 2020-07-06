@@ -13,7 +13,7 @@ body{
 }
 
 .container-fluid header{
-    background: url(bckgd1.jpg)#184d47;
+    background: url(bckgd1.jpg)#353838;
     background-blend-mode: multiply;
     background-size: contain;
     text-transform: uppercase;
